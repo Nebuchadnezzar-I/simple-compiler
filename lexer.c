@@ -5,6 +5,8 @@
 
 struct Token token;
 
+// Just a comment
+
 const char* tokenType[] = {
     "LSQUIRLY", "RSQUIRLY", "LPAREN", "RPAREN", "SEMICOLON", "COMMA", "PLUS",
     "MINUS", "MULTIPLY", "DIVIDE", "ASSIGN", "GREATER", "LESS", "NOT",
